@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Tarea-FetchApi/static/css/main.299e5576.css",
+    "main.js": "/Tarea-FetchApi/static/js/main.a33b2c4e.js",
+    "static/js/453.503561ac.chunk.js": "/Tarea-FetchApi/static/js/453.503561ac.chunk.js",
+    "index.html": "/Tarea-FetchApi/index.html",
+    "main.299e5576.css.map": "/Tarea-FetchApi/static/css/main.299e5576.css.map",
+    "main.a33b2c4e.js.map": "/Tarea-FetchApi/static/js/main.a33b2c4e.js.map",
+    "453.503561ac.chunk.js.map": "/Tarea-FetchApi/static/js/453.503561ac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.299e5576.css",
+    "static/js/main.a33b2c4e.js"
+  ]
+}
